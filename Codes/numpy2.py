@@ -1,5 +1,5 @@
 # ***********************************
-#  string1.pr
+#  numpy2.pr
 #  CCAM Workshop - 2017
 #  Written by Arjang Fahim
 #
